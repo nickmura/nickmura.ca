@@ -7,7 +7,7 @@ export default function Home() {
             Nick Mura
           </h1>
           <p className="text-sm text-zinc-600 sm:text-base">
-            a collection of projects & artifacts ive made or worked on the interwebs over the years.
+            a collection of projects & artifacts ive made or worked on
           </p>
           <p className="text-sm sm:text-base ">
             <a className='hover:text-indigo-500'>Contact: dev@nickmura.ca </a> 
@@ -49,7 +49,7 @@ export default function Home() {
               <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
                 <h2 className="text-xl font-semibold sm:text-2xl">Stablegate</h2>
                 <p className="text-sm text-zinc-600 sm:text-base">
-                  Stablecoin consulting & solutions for payment rails + infra
+                  Stablecoin stuff
                 </p>
               </div>
             </a>
