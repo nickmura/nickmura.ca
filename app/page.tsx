@@ -41,6 +41,19 @@ export default function Home() {
               </div>
             </a>
             <a
+              href="https://github.com/nickmura/AudioClipper"
+              target="_blank"
+              rel="noreferrer"
+              className="flex h-max w-full flex-col items-start justify-start gap-3 rounded-2xl p-3 transition hover:-translate-y-1 sm:flex-row sm:items-center sm:gap-4 sm:p-4"
+            >
+              <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
+                <h2 className="text-xl font-semibold sm:text-2xl">AudioClipper</h2>
+                <p className="text-sm text-zinc-600 sm:text-base">
+                  DSP soft clipper with 4 algorithms & oversampling for DAW post-processing
+                </p>
+              </div>
+            </a>
+            <a
               href="https://stablegate.xyz"
               target="_blank"
               rel="noreferrer"
