@@ -60,7 +60,7 @@ export default function Home() {
               className="flex h-max w-full flex-col items-start justify-start gap-3 rounded-2xl p-3 transition hover:-translate-y-1 sm:flex-row sm:items-center sm:gap-4 sm:p-4"
             >
               <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
-                <h2 className="text-xl font-semibold sm:text-2xl">Stablegate</h2>
+                <h2 className="text-xl font-semibold sm:text-2xl">stablegate.xyz</h2>
                 <p className="text-sm text-zinc-600 sm:text-base">
                   Stablecoin stuff
                 </p>
