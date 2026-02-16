@@ -7,7 +7,7 @@ export default function Home() {
             Nick Mura
           </h1>
           <p className="text-sm text-zinc-600 sm:text-base">
-            a collection of projects & artifacts ive made or worked on
+            21, engineer/artist, a collection of projects & artifacts ive made or worked on
           </p>
           <p className="text-sm sm:text-base ">
             <a className='hover:text-indigo-500'>Contact: dev@nickmura.ca </a> 
@@ -50,6 +50,33 @@ export default function Home() {
                 <p className="text-sm text-zinc-600 sm:text-base">
                   command line interface for DeFi operations across 8+ protocols
                   and data providers
+                </p>
+              </div>
+            </a>
+            <a
+              href="https://github.com/nickmura/TransientProcessor"
+              target="_blank"
+              rel="noreferrer"
+              className="group flex h-max w-full flex-col items-start justify-start gap-3 rounded-2xl border border-transparent bg-white/80 p-3 transition-all duration-200 hover:-translate-y-1 hover:border-zinc-200 hover:bg-zinc-50 hover:shadow-[0_12px_30px_rgba(15,23,42,0.12)] sm:flex-row sm:items-center sm:gap-4 sm:p-4"
+            >
+              <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-xl bg-zinc-100 text-zinc-700 transition-all duration-200 group-hover:scale-105 group-hover:bg-black group-hover:text-white sm:h-20 sm:w-20">
+                <svg
+                  viewBox="0 0 24 24"
+                  aria-hidden="true"
+                  className="h-7 w-7 sm:h-9 sm:w-9"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M2 12h3l2-4 3 8 3-10 2 6h5" />
+                </svg>
+              </div>
+              <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
+                <h2 className="text-xl font-semibold sm:text-2xl">TransientProcessor</h2>
+                <p className="text-sm text-zinc-600 sm:text-base">
+                  DSP transient processor, single band dual envelope, ASO controls, curve control, metering 
                 </p>
               </div>
             </a>
