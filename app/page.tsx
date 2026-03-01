@@ -7,7 +7,7 @@ export default function Home() {
             Nick Mura
           </h1>
           <p className="text-sm text-zinc-600 sm:text-base">
-            21, engineer/artist, a collection of projects & artifacts ive made or worked on
+            22, engineer/artist, just a guy who likes to make stuff,.  collection of projects & artifacts ive made or worked on
           </p>
           <p className="text-sm sm:text-base ">
             <a className='hover:text-indigo-500'>Contact: dev@nickmura.ca </a> 
