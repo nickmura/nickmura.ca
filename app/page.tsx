@@ -46,7 +46,7 @@ export default function Home() {
                 </svg>
               </div>
               <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
-                <h2 className="text-xl font-semibold sm:text-2xl">fi.computer / financecomputer.org</h2>
+                <h2 className="text-xl font-semibold sm:text-2xl">weather.fi.computer </h2>
                 <p className="text-sm text-zinc-600 sm:text-base">
                  weather alerts & more
                 </p>
