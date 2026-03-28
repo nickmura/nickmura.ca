@@ -7,7 +7,7 @@ export default function Home() {
             Nick Mura
           </h1>
           <p className="text-sm text-zinc-600 sm:text-base">
-            22, engineer/artist, just a guy who likes to make stuff,.  collection of projects & artifacts ive made or worked on
+            22, just a guy who likes to make stuff,. engineering/art , collection of projects & artifacts ive made .
           </p>
           <p className="text-sm sm:text-base ">
             <a className='hover:text-indigo-500'>Contact: dev@nickmura.ca </a> 
@@ -23,7 +23,7 @@ export default function Home() {
 
         <section className="w-full">
           <div className="flex w-full flex-col gap-4">
-             <a
+          <a
               href="https://fi.computer"
               target="_blank"
               rel="noreferrer"
@@ -49,6 +49,35 @@ export default function Home() {
                 <h2 className="text-xl font-semibold sm:text-2xl">fi.computer / financecomputer.org</h2>
                 <p className="text-sm text-zinc-600 sm:text-base">
                   an initative to build an operating system for executing, routing, and automating on-chain finance
+                </p>
+              </div>
+            </a>
+             <a
+              href="https://fi.computer"
+              target="_blank"
+              rel="noreferrer"
+              className="group flex h-max w-full flex-col items-start justify-start gap-3 rounded-2xl border border-transparent bg-white/80 p-3 transition-all duration-200 hover:-translate-y-1 hover:border-zinc-200 hover:bg-zinc-50 hover:shadow-[0_12px_30px_rgba(15,23,42,0.12)] sm:flex-row sm:items-center sm:gap-4 sm:p-4"
+            >
+              <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-xl bg-zinc-100 text-zinc-700 transition-all duration-200 group-hover:scale-105 group-hover:bg-black group-hover:text-white sm:h-20 sm:w-20">
+                <svg
+                  viewBox="0 0 24 24"
+                  aria-hidden="true"
+                  className="h-7 w-7 sm:h-9 sm:w-9"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <circle cx="12" cy="12" r="10" />
+                  <path d="M2 12h20" />
+                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+                </svg>
+              </div>
+              <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
+                <h2 className="text-xl font-semibold sm:text-2xl">fi.computer / financecomputer.org</h2>
+                <p className="text-sm text-zinc-600 sm:text-base">
+                  defi execution / intelligence OSS
                 </p>
               </div>
             </a>
