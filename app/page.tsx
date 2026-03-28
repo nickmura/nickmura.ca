@@ -48,7 +48,7 @@ export default function Home() {
               <div className="flex w-full flex-col gap-1 px-0 sm:px-2">
                 <h2 className="text-xl font-semibold sm:text-2xl">fi.computer / financecomputer.org</h2>
                 <p className="text-sm text-zinc-600 sm:text-base">
-                  an initative to build an operating system for executing, routing, and automating on-chain finance
+                 weather alerts & more
                 </p>
               </div>
             </a>
