@@ -24,7 +24,7 @@ export default function Home() {
         <section className="w-full">
           <div className="flex w-full flex-col gap-4">
           <a
-              href="https://fi.computer"
+              href="https://weather.fi.computer"
               target="_blank"
               rel="noreferrer"
               className="group flex h-max w-full flex-col items-start justify-start gap-3 rounded-2xl border border-transparent bg-white/80 p-3 transition-all duration-200 hover:-translate-y-1 hover:border-zinc-200 hover:bg-zinc-50 hover:shadow-[0_12px_30px_rgba(15,23,42,0.12)] sm:flex-row sm:items-center sm:gap-4 sm:p-4"
